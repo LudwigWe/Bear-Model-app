@@ -1,6 +1,7 @@
 voila
+ipywidgets
 fastai
 pillow
 packaging
-ipywidgets
+
 
