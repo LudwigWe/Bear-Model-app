@@ -1,4 +1,4 @@
-voila --template=debug --VoilaExporter.template_file=debug.tpl
+voila
 fastai
 pillow<7
 packaging
